@@ -1,6 +1,4 @@
-Olá :purple_heart:
-# Eu sou a Dai ^^
-<br>
+# Olá, Eu sou a Dai ^^
 
 ### :purple_heart: Sobre mim :
  - Meu nome é Daiani Vieira e sou do Espiríto Santo
@@ -11,7 +9,7 @@ Olá :purple_heart:
  
  - Tenho um interesse especial por UI/UX e Front-end
  
-<br>
+ 
 
 ### :blue_heart: Habilidades :
 
@@ -31,8 +29,6 @@ Olá :purple_heart:
 
 
 <img width="100%" alt="Snake animation" src="https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg"/>
-<br>
-<br>
 <br>
 
 ## :purple_heart: Vamos conversar?
