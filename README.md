@@ -1,7 +1,7 @@
 # Olá, Eu sou a Dai ^^
 
 ### :purple_heart: Sobre mim :
- - Meu nome é Daiani Vieira e sou do Espiríto Santo
+ - Meu nome é Daiani Vieira e sou do Espírito Santo
 
  - Curso Design na UFES
  
@@ -9,19 +9,20 @@
  
  - Tenho um interesse especial por UI/UX e Front-end
  
- 
+<br>
 
 ### :blue_heart: Habilidades :
 
-<!--
 <div>
-<img height="64em"  src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-<img height="64em" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-<img height="64em"  src="https://cdn-icons-png.flaticon.com/512/136/136530.png" />
-<img height="64em"  src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+<a href="https://www.javascript.com/"><img height="48em"  src="icon_javascript.svg" /></a>
+<a href="https://www.figma.com/design/"><img height="48em" src="icon_figma.svg" /></a>
+<a href="https://pt-br.reactjs.org/"><img height="48em"  src="icon_react.svg" /></a>
+<a href="https://www.php.net/"><img height="48em" src="icon_php.svg" /></a>
 </div>
--->
-- HTML, CSS, SASS, JavaScript, Wordpress, PHP, React, CMB2
+
+<br>
+
+- HTML, CSS, SASS, Wordpress, CMB2 e WooCommerce
 
 <img align="right" width="55%" src="https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"/>
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpdany&layout=compact&langs_count=7&theme=react&hide_border=true"/>
